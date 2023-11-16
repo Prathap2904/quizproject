@@ -1,0 +1,17 @@
+export default[
+    {question:"Who is the chiefminister of Tamilnadu?",
+    options:["Stalin","PannerSelvam","EdappadiPalanisamy","RajiniKanth"],
+    Answer:0},
+    {question:"what is the anothername of Nextday?",
+    options:["Today","Yesterday","Tomorrow","Tuesday"],
+    Answer:2},
+    {question:"How many Wheels in Twowheeler",
+    options:["Four","eight","Ten","Two"],
+    Answer:3},
+    {question:"what is the number after 2?",
+    options:["4","3","2","1"],
+    Answer:1},
+    {question:"Palindrome number 0f 1234?",
+    options:["4321","2413","1423","4213"],
+    Answer:0},
+]
